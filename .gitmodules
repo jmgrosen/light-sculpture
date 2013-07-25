@@ -1,0 +1,6 @@
+[submodule "simulator/glfw-rs"]
+	path = simulator/glfw-rs
+	url = git://github.com/bjz/glfw-rs.git
+[submodule "simulator/rust-opengles"]
+	path = simulator/rust-opengles
+	url = git://github.com/mozilla-servo/rust-opengles.git

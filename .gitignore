@@ -33,3 +33,12 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# IPython notebooks
+*.ipynb
+
+# Emacs files
+[#]*[#]
+
+# Rust binary cruft
+*.dSYM
